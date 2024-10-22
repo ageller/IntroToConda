@@ -59,7 +59,7 @@ Miniforge is an open-source project that provides a minimal installation of the 
 
 ### Option 2+: Also install VS Code 
 
-I personally prefer to work within [VS Code](https://code.visualstudio.com/) for all my code development.  This is a very flexibly IDE with many extensions and great integration with GitHub.  If you are interested in installing and using VS Code, you can follow these steps.
+I personally prefer to work within [VS Code](https://code.visualstudio.com/) for all my code development.  This is a very flexibly IDE with many extensions and great integration with GitHub.  If you are interested in installing and using VS Code, you can follow these steps after completing the "Option 2" installation instructions above.
 
 
 1. [Click here to go to the VS Code website.](https://code.visualstudio.com/) Download the installer, and run the installer on your computer.  Accept all the defaults.
