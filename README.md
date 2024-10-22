@@ -6,23 +6,24 @@ Python has a wide array of libraries with different versions and many dependenci
 
 ## Installation
 
-Prior to the workshop, please install either Anaconda or miniforge (not both) and ensure that you are able to access the installed Python.  Below are instructions on how to install either of these.  How do you choose which to install?
+Prior to the workshop, please install either [Anaconda](https://www.anaconda.com/) or [miniforge](https://github.com/conda-forge/miniforge) (not both) and ensure that you are able to access the installed Python.  Below are instructions on how to install either of these.  How do you choose which to install?
 
-Install Anaconda if:
+The Anaconda Distribution is a large all-in-one package for installing Python and `conda` virtual environments, along with many different IDEs, on your computer.  It has many positive aspects, especially for new coders, but it is somewhat slow to load and contains (what I consider to be) a lot of "bloatware".  Install Anaconda if:
 - You are new to Python
 - You are not comfortable working from the command line, and prefer point and click applications
 - You want an easy 1-click installation solution
-- You are OK with slower load times and some level of "bloatware"
 - You will not use this installation of Python for commercial purposes while at Northwestern
 
-Install miniforge (and possibly related software) if:
+Miniforge is an open-source project that provides a minimal installation of the `conda` / `mamba` package manager.  It is streamlined and fast, but requires you to work from the command line.  Install miniforge (and possibly related software) if:
 - You are an experienced coder
 - You are willing to work (minimally) from the command line
 - You don't want any bloatware
-- You would prefer to use open-source software
+- You would prefer to use an open-source Python package managment system
 - You may use this Python installation for commercial research
 
 *If you are unsure which path to take, you should probably choose the first option and install Anaconda.*
+
+**Note**: The installation instructions below were written in Oct. 2024.  It is possible these instructions will need to be modified if you are reading this in the future.
 
 ### Option 1: Install the Anaconda Distribution
 
