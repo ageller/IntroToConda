@@ -1,6 +1,6 @@
 # It's your turn to try creating and using virtual environments
 
-1. Create two environments (I provide shell commands below, but if you are working in the Anaconda Navigator you can do this in the Navigator GUI via point and click by hand-selecting these packages):
+1. Create two environments (I provide shell commands below, but if you are working in the Anaconda Navigator you can do this in the Navigator GUI via point-and-click and hand-selecting these packages):
 
     ```
     conda create --name numpy1-test python=3.12 numpy=1.26.4 jupyter
