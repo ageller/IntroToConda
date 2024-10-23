@@ -28,7 +28,7 @@ Miniforge is an open-source project that provides a minimal installation of the 
 ### Option 1: Install the Anaconda Distribution
 
 1. [Click here to go to the Anaconda download page.](https://www.anaconda.com/download)
-2. Agree to their terms, and download the installer.
+2. Agree to their terms and download the installer.
 3. Run the installer on your computer.
 4. Open the Anaconda Navigator application on your computer (has a green circle icon).  
 5. Within the Navigator, click on the Jupyter Notebook (or Jupyter Lab) icon.  
